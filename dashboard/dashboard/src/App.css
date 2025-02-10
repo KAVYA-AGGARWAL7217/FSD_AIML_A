@@ -1,0 +1,14 @@
+nav{
+  background-color: gold;
+  border: 1px solid blue;
+}
+ul{
+  display: flex;
+  justify-content: space-around;
+}
+nav ul{
+  list-style-type: none;
+ & li a{
+  text-decoration: none;
+ }
+}

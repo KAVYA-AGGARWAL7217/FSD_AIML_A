@@ -1,0 +1,5 @@
+const{read,write,append,Delete}=require('./myFileData')
+write()
+read()
+append()
+Delete()
